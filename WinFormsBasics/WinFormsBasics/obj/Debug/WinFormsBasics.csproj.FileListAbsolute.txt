@@ -1,0 +1,7 @@
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsBasics\bin\Debug\WinFormsBasics.exe.config
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsBasics\bin\Debug\WinFormsBasics.exe
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsBasics\bin\Debug\WinFormsBasics.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsBasics\obj\Debug\WinFormsBasics.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsBasics\obj\Debug\WinFormsBasics.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsBasics\obj\Debug\WinFormsBasics.exe
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsBasics\obj\Debug\WinFormsBasics.pdb

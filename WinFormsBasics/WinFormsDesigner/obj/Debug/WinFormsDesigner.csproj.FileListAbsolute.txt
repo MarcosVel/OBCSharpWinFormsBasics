@@ -1,0 +1,10 @@
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\bin\Debug\WinFormsDesigner.exe.config
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\bin\Debug\WinFormsDesigner.exe
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\bin\Debug\WinFormsDesigner.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\obj\Debug\WinFormsDesigner.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\obj\Debug\WinFormsDesigner.MyForm.resources
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\obj\Debug\WinFormsDesigner.Properties.Resources.resources
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\obj\Debug\WinFormsDesigner.csproj.GenerateResource.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\obj\Debug\WinFormsDesigner.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\obj\Debug\WinFormsDesigner.exe
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsDesigner\obj\Debug\WinFormsDesigner.pdb

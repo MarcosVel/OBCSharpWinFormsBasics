@@ -1,0 +1,15 @@
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\bin\Debug\WpfAppDemo.exe.config
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\bin\Debug\WpfAppDemo.exe
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\bin\Debug\WpfAppDemo.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\MainWindow.g.cs
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\App.g.cs
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo_MarkupCompile.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo_MarkupCompile.lref
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\MainWindow.baml
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo.g.resources
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo.Properties.Resources.resources
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo.csproj.GenerateResource.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo.exe
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WpfAppDemo\obj\Debug\WpfAppDemo.pdb

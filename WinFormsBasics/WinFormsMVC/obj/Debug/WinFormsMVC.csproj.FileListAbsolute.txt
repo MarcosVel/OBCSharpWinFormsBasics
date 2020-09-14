@@ -1,0 +1,11 @@
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\obj\Debug\WinFormsMVC.Properties.Resources.resources
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\obj\Debug\WinFormsMVC.csproj.GenerateResource.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\obj\Debug\WinFormsMVC.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\bin\Debug\WinFormsMVC.exe.config
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\bin\Debug\WinFormsMVC.exe
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\bin\Debug\WinFormsMVC.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\obj\Debug\WinFormsMVC.exe
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\obj\Debug\WinFormsMVC.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\obj\Debug\WinFormsMVC.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\obj\Debug\WinFormsMVC.FirstForm.resources
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\WinFormsBasics\WinFormsMVC\obj\Debug\WinFormsMVC.View.SecondForm.resources
